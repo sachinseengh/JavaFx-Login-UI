@@ -1,0 +1,39 @@
+.login-bg{
+    
+    -fx-background-color: linear-gradient(to bottom right, #141E30, #243B55);
+}
+
+
+.text-field{
+    -fx-background-color: transparent;
+    
+    -fx-border-color: #308bc4;
+    -fx-border-width: 0px 0px 3px 0px;
+    -fx-padding: 5px 5px 5px 20px;
+    -fx-text-inner-color:#fff;
+}
+
+
+.button{
+    
+    -fx-background-color: #418ab4;
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+}
+
+.button:hover{
+    -fx-background-color: #63a4cc;
+}
+
+.hyper-text{
+    -fx-text-fill: #63a4cc;
+}
+
+.exit{
+    -fx-background-color: #327096;
+    -fx-background-radius: 50px;
+    -fx-cursor: hand;
+}
+.exit:hover{
+    -fx-background-color:#d72c0e ; 
+}
